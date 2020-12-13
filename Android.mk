@@ -10,5 +10,6 @@ include $(MTK_IMS_ROOT_PATH)/libimsma_adapt/Android.mk
 include $(MTK_IMS_ROOT_PATH)/libvcodec_capenc/Android.mk
 include $(MTK_IMS_ROOT_PATH)/rtp/Android.mk
 include $(MTK_IMS_ROOT_PATH)/signal/Android.mk
+include $(MTK_IMS_ROOT_PATH)/sink/Android.mk
 
 endif # TARGET_PROVIDES_MEDIATEK_IMS_STACK
