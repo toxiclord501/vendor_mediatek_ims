@@ -13,5 +13,6 @@ include $(MTK_IMS_ROOT_PATH)/signal/Android.mk
 include $(MTK_IMS_ROOT_PATH)/sink/Android.mk
 include $(MTK_IMS_ROOT_PATH)/socketwrapper/Android.mk
 include $(MTK_IMS_ROOT_PATH)/source/Android.mk
+include $(MTK_IMS_ROOT_PATH)/vcodeccap/Android.mk
 
 endif # TARGET_PROVIDES_MEDIATEK_IMS_STACK
