@@ -8,6 +8,7 @@ PRODUCT_PACKAGES += \
     libvt_avsync \
     libimsma_rtp \
     libvcodec_cap \
+    libmtklimiter \
     libimsma_adapt \
     libvcodec_capenc \
     libmtkaudio_utils \
