@@ -10,4 +10,5 @@ PRODUCT_PACKAGES += \
     libvcodec_cap \
     libimsma_adapt \
     libvcodec_capenc \
+    libmtkaudio_utils \
     libimsma_socketwrapper
