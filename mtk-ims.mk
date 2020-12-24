@@ -15,4 +15,5 @@ PRODUCT_PACKAGES += \
     libvcodec_capenc \
     libmtkaudio_utils \
     libmtk_vt_service \
+    libmtk_vt_wrapper \
     libimsma_socketwrapper
