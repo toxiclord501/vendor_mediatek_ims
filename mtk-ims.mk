@@ -3,6 +3,7 @@ PRODUCT_PACKAGES += \
     libsink \
     libimsma \
     libsource \
+    vtservice \
     libsignal \
     libcomutils \
     libvt_avsync \
