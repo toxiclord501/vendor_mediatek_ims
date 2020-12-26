@@ -1,0 +1,8 @@
+java_import {
+    name: "com.mediatek.mdml",
+    installable: false,
+
+    owner: "mtk",
+
+    jars: ["classes.jar"],
+}
