@@ -1,0 +1,5 @@
+dex_import {
+	name: "mediatek-ims-legacy",
+	owner: "xiaomi",
+	jars: ["mediatek-ims-legacy.jar"],
+}
