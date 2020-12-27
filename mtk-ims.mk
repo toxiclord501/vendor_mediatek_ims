@@ -1,6 +1,7 @@
 # Apps
 PRODUCT_PACKAGES += \
-    ImsService
+    ImsService \
+    EngineerMode
 
 # Radio IMS
 PRODUCT_PACKAGES += \
@@ -17,6 +18,7 @@ PRODUCT_PACKAGES += \
     libmtklimiter \
     libimsma_adapt \
     libvcodec_capenc \
+    libem_support_jni \
     libmtkaudio_utils \
     libmtk_vt_service \
     libmtk_vt_wrapper \
