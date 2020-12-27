@@ -29,4 +29,5 @@ PRODUCT_PACKAGES += \
     mediatek-telecom-common \
     mediatek-telephony-base \
     mediatek-ims-wwop-common \
+    mediatek-telephony-common \
     mediatek-ims-extension-plugin
