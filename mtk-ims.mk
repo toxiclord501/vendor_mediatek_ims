@@ -27,5 +27,6 @@ PRODUCT_PACKAGES += \
     mediatek-ims-common \
     mediatek-ims-legacy \
     mediatek-telecom-common \
+    mediatek-telephony-base \
     mediatek-ims-wwop-common \
     mediatek-ims-extension-plugin
