@@ -26,4 +26,5 @@ PRODUCT_PACKAGES += \
     mediatek-ims-base \
     mediatek-ims-common \
     mediatek-ims-legacy \
+    mediatek-ims-wwop-common \
     mediatek-ims-extension-plugin

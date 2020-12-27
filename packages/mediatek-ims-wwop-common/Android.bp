@@ -1,0 +1,5 @@
+dex_import {
+	name: "mediatek-ims-wwop-common",
+	owner: "xiaomi",
+	jars: ["mediatek-ims-wwop-common.jar"],
+}
