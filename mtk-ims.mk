@@ -22,4 +22,5 @@ PRODUCT_PACKAGES += \
 # Radio IMS Jars
 PRODUCT_PACKAGES += \
     mediatek-common \
-    mediatek-framework
+    mediatek-framework \
+    mediatek-ims-base
