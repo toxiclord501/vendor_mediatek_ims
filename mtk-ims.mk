@@ -1,3 +1,7 @@
+# Apps
+PRODUCT_PACKAGES += \
+    ImsService
+
 # Radio IMS
 PRODUCT_PACKAGES += \
     libsink \
