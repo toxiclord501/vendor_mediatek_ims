@@ -23,4 +23,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     mediatek-common \
     mediatek-framework \
-    mediatek-ims-base
+    mediatek-ims-base \
+    mediatek-ims-common
