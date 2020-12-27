@@ -16,7 +16,7 @@ LOCAL_SHARED_LIBRARIES := \
     libaudioclient
 
 LOCAL_C_INCLUDES := \
-    vendor/mediatek/ims/audio_utils/common_headers/ \
+    vendor/mediatek/ims/include/audio_utils/common_headers/ \
     frameworks/av/media/libaudioclient/include/media/ \
     system/core/base/include
 
@@ -44,7 +44,7 @@ LOCAL_SHARED_LIBRARIES := \
     libutils
 
 LOCAL_C_INCLUDES := \
-    vendor/mediatek/ims/audio_utils/common_headers/ \
+    vendor/mediatek/ims/include/audio_utils/common_headers/ \
 
 LOCAL_MODULE := libaudiotoolkit_vendor
 LOCAL_PROPRIETARY_MODULE := true

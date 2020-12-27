@@ -16,4 +16,5 @@ PRODUCT_PACKAGES += \
     libmtkaudio_utils \
     libmtk_vt_service \
     libmtk_vt_wrapper \
+    libmtkperf_client \
     libimsma_socketwrapper
