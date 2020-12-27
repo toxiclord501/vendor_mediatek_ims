@@ -18,3 +18,7 @@ PRODUCT_PACKAGES += \
     libmtk_vt_wrapper \
     libmtkperf_client \
     libimsma_socketwrapper
+
+# Radio IMS Jars
+PRODUCT_PACKAGES += \
+    mediatek-common
