@@ -24,4 +24,5 @@ PRODUCT_PACKAGES += \
     mediatek-common \
     mediatek-framework \
     mediatek-ims-base \
-    mediatek-ims-common
+    mediatek-ims-common \
+    mediatek-ims-extension-plugin
