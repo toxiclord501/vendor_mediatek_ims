@@ -1,0 +1,14 @@
+cc_prebuilt_library_shared {
+	name: "libmtkavenhancements",
+  compile_multilib: "both",
+  check_elf_files: false,
+	owner: "mtk",
+	target: {
+		android_arm: {
+			srcs: ["arm/libmtkavenhancements.so"],
+		},
+		android_arm64: {
+			srcs: ["arm64/libmtkavenhancements.so"],
+		},
+	},
+}
