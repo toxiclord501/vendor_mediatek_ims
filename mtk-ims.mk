@@ -47,3 +47,7 @@ PRODUCT_PACKAGES += \
     mediatek-ims-wwop-common \
     mediatek-telephony-common \
     mediatek-ims-extension-plugin
+
+# Video Telephony
+PRODUCT_PACKAGES += \
+    vendor.mediatek.hardware.videotelephony@1.0
