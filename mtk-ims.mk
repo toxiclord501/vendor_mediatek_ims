@@ -19,10 +19,8 @@ PRODUCT_PACKAGES += \
     libimsma_adapt \
     libvcodec_capenc \
     libem_support_jni \
-    libmtkaudio_utils \
     libmtk_vt_service \
     libmtk_vt_wrapper \
-    libmtkperf_client \
     libimsma_socketwrapper
 
 # Radio IMS Boot Jar
