@@ -14,6 +14,11 @@ cc_prebuilt_library_shared {
         shared_libs: [
             "libcutils",
             "libutils",
+            "libm",
+            "liblog",
+            "libdl",
+            "libc",
+            "libc++",
         ],
         compile_multilib: "both",
 }
