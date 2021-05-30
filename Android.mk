@@ -17,6 +17,7 @@ include $(MTK_IMS_ROOT_PATH)/sink/Android.mk
 include $(MTK_IMS_ROOT_PATH)/socketwrapper/Android.mk
 include $(MTK_IMS_ROOT_PATH)/source/Android.mk
 include $(MTK_IMS_ROOT_PATH)/vcodeccap/Android.mk
+include $(MTK_IMS_ROOT_PATH)/vt_hal_process/Android.mk
 include $(MTK_IMS_ROOT_PATH)/vt_process/Android.mk
 include $(MTK_IMS_ROOT_PATH)/vt_service/Android.mk
 include $(MTK_IMS_ROOT_PATH)/vt_wrapper/Android.mk

@@ -46,6 +46,7 @@ PRODUCT_PACKAGES += \
 
 # Video Telephony
 PRODUCT_PACKAGES += \
+    vtservice_hidl \
     vendor.mediatek.hardware.videotelephony@1.0 \
     vendor.mediatek.hardware.videotelephony@1.0-impl
 
