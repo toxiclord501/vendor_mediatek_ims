@@ -33,7 +33,7 @@
 
 using namespace android;
 
-int main(int argc, char** argv) {
+int main(void) {
 
     sp<ProcessState> proc(ProcessState::self());
     sp<IServiceManager> sm = defaultServiceManager();

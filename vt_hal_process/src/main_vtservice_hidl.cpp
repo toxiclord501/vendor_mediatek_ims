@@ -39,7 +39,7 @@ using ::android::hardware::joinRpcThreadpool;
 using ::vendor::mediatek::hardware::videotelephony::V1_0::IVideoTelephony;
 
 
-int main(int argc, char** argv) {
+int main(void) {
 
     configureRpcThreadpool(1, true /* callerWillJoin */);
 
