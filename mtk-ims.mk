@@ -2,6 +2,11 @@
 PRODUCT_PACKAGES += \
     ImsService
 
+# Extra Libs
+PRODUCT_PACKAGES += \
+    libsysenv \
+    libsysenv_system
+
 # Radio IMS
 PRODUCT_PACKAGES += \
     libsink \
