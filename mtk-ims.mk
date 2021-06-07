@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
 # Extra Libs
 PRODUCT_PACKAGES += \
     libsysenv \
+    libmtk_drvb \
     libsysenv_system
 
 # Radio IMS
@@ -24,6 +25,8 @@ PRODUCT_PACKAGES += \
     libvcodec_capenc \
     libmtk_vt_service \
     libmtk_vt_wrapper \
+    libmtkshifter_vendor \
+    libmtklimiter_vendor \
     libimsma_socketwrapper
 
 # Radio IMS Boot Jar
